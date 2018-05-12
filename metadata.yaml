@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40945'
     url: http://www.gutenberg.org/2009/agents/40945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41039#Nouveau-manuel-complet-de-marineseconde-partie--manoeuvres
 gutenberg_bookshelf: FR Métiers et Artisanat
 gutenberg_issued: '2012-10-13'
 gutenberg_type: Text
