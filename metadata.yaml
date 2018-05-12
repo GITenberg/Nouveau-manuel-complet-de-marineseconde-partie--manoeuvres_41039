@@ -1,0 +1,25 @@
+_repo: Nouveau-manuel-complet-de-marineseconde-partie--manoeuvres_41039
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41039-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Verdier, Phocion-Aristide-Paulin
+    gutenberg_agent_id: '40945'
+    url: http://www.gutenberg.org/2009/agents/40945
+description: ''
+gutenberg_bookshelf: FR Métiers et Artisanat
+gutenberg_issued: '2012-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41039'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naval art and science'
+- !lcc 'V'
+title: 'Nouveau manuel complet de marine, seconde partie: manoeuvres'
+url: http://www.gutenberg.org/ebooks/41039
